@@ -15,5 +15,6 @@ public class Butterfly extends Actor
     public void act()
     {
         move(5);
+        System.out.println("hi its galen");
     }
 }
